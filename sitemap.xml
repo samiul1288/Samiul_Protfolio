@@ -3,8 +3,15 @@
   <url>
     <loc>https://samiul1288.vercel.app/</loc>
     <lastmod>2026-11-22</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <!-- Add extra public routes if your site has them, e.g.:
+  <url>
+    <loc>https://samiul1288.vercel.app/projects</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
 </urlset>
-
